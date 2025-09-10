@@ -22,7 +22,8 @@
 <img align="right" src="https://github.com/KandalaAbhigna/KandalaAbhigna/blob/main/terminal.gif" width="20%"/>
   <br>
 
-- 👨‍🎓 <samp><b>Master's in Software Engineering (2025-2027) in University of Maryland, USA </b><b>B.Tech in Computer Science Engineering Core (2020-2024) in Kalinga Institute of Industrial Technology, Bhubaneshwar - 8.8 CGPA</b>
+- 👨‍🎓 <samp><b>Master's in Software Engineering (2025-2027) in University of Maryland, USA </b>
+- 👨‍🎓 B.Tech in Computer Science Engineering Core (2020-2024) in Kalinga Institute of Industrial Technology, Bhubaneshwar - 8.8 CGPA
 - 💬 <samp>Ask me about Python
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ♟ <samp>I am a Web Dev enthusiast
