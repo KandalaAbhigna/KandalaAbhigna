@@ -16,7 +16,7 @@
 <br><br>
 <img src="https://github.com/KandalaAbhigna/KandalaAbhigna/blob/main/header_.png"/>
 
-## <p align="center"><h4 align="center"><samp>Student @KIIT</samp></h4></p>
+## <p align="center"><h4 align="center"><samp>Student @UMCP</samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/KandalaAbhigna/KandalaAbhigna/blob/main/terminal.gif" width="20%"/>
